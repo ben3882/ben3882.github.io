@@ -1,0 +1,51 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Preamble
+The GNU General Public License is a free software license, used worldwide. The license was originally written by Richard Stallman for the GNU project; he wrote it to guarantee your freedom to share and change all versions of a program, to make sure it is free software for all its users.  This license is a legal instrument that ensures the public gets the rights to use the software freely.  It helpfully provides a simple way for authors to ensure that their software will remain free in the future.
+
+This license is not a set of rules or terms, but an expression of your collection of rights, obligations, and responsibilities in the face of the legal environment of software distribution.  Indeed, it presents a kind of social contract between authors and the public. By doing each other favors, both sides get a bit more freedom.  The authors get the ability to share their work freely, and the public gains rights to acquire that work under the required conditions.
+
+Wherever you see the word "the Program", it refers to any copyrightable work licensed under this License.  A "work based on the Program" means either the Program or any derivative work under copyright law: that is to say, you can modify the Program, and you can also incorporate parts of it into other programs.”
+
+You can also take existing modifications to the Program and combine them with new code under the terms of this License.  Therefore, the intent of this License is to grant you freedom and assure others the ability to share creative work.
+
+The precise rules and regulations defining your rights and obligations are specified below.  The only way to remove or modify your rights under this License is to revoke your own copyright, not to alter this License. 
+
+Terms and Conditions
+0. Definitions.
+ "This License" refers to version 3 of the GNU General Public License. 
+ "Copyright" also means copyright-like rights such as those delimited by patent rights. 
+ "The Program" means any copyrightable work licensed under this License.  Each licensee is addressed as "you". "Licensor" means the individual or organization that offers You the License under this License.
+ "Your" refers to your rights under this License.  "The User" means anyone who uses, modifies, or distributes the Program. 
+
+1. Source Code.
+The term "source code" means the preferred form of the work for making modifications to it.  It is exhibited in a form that may be used to create and install the work.  A "work based on the Program" means either the Program or any derivative work under copyright law: that is to say, you can modify the Program, and you can also incorporate parts of it into other programs.
+
+2. Basic Permissions.
+You are permitted to make and distribute verbatim copies of the Program, providing you distribute the License as well.  You must provide any recipient of the Program with a copy of this License along with the Program.  You must not impose any further restrictions on the Program, and you must only distribute the Program under the terms of this License.
+
+3. Copyleft.
+You must preserve the license notice and copyright notice and keep them intact when you distribute the Program. This means you must re-distribute copies of the Program under the same license terms as the original.Program.
+
+4. Modifications.
+You are permitted to modify the Program and distribute modified versions of it under the terms of this License, providing you include an additional permission statement. You must also preserve the license notice and copyright notice from the original Program. You may not impose any further restrictions of any kind on the Program.
+
+5. Distribution.  You must distribute the source code of the Program when you distribute the Program in any form.
+
+6. There is no warranty.
+There is no warranty for the Program; you as the user take responsibility for the use of it, and thus accept all risk and liability.
+
+7. Limitation of Liability.
+To the extent permitted by applicable law, you and your representatives may not hold any individual or organization liable for damage resulting from use of the Program.
+
+8. Acceptance of the License. 
+If you do not accept the permissions and limitations by this License, you must cease all use and distribution of the Program.
+
+9. Updating License Permissions.
+
+a. This License is designed to be updated so it may conform to the changing needs of free software authors and the public. A work based on this License may also include later revisions of this License as part of their License, which you may be obligated to accept if you use or distribute that work.
